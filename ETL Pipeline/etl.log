@@ -1,0 +1,6 @@
+INFO:root:Starting ETL pipeline...
+INFO:root:Database and table setup completed.
+INFO:root:Data inserted into SQL Server
+INFO:root:Starting ETL pipeline...
+INFO:root:Database and table setup completed.
+INFO:root:Data inserted into SQL Server
